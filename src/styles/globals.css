@@ -25,3 +25,8 @@ body {
     )
     rgb(var(--background-start-rgb));
 }
+
+/* antd image style */
+.ant-image-preview-progress{
+  @apply flex gap-1 mb-1 !important;
+}
